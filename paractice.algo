@@ -1,0 +1,23 @@
+ALGORITHM 
+
+VAR
+    C:CHAR
+    W:INTEGER:=0
+    L:INTEGER:=0
+    V:INTEGER:=0
+BEGIN
+    
+
+write("donnez caractère")
+read(C)
+WHILE (c<>'.') DO
+    l=l+1;
+IF (C='') THEN
+    W=W+1;
+IF (C:='a'or C='e' C=or'i'or C='o'or C='u'or C='y') THEN
+    V=V+1
+write(l+1);
+write(w+1);
+write(v);
+
+END
